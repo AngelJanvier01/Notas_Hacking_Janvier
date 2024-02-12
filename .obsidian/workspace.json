@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "c5a9aee5aad54c6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf4c215104ee8d72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71ec0046b7285a4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RETOS BANDIT/LevelX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82af5e2da2669b7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe5a666e7f74854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7235f4dca2893463",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6337b77644655214",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31639daf86a5d763",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "182b199bc7425f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "edd6053a1653db60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8852ed9b650a891",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RETOS BANDIT/LevelX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48d1406fb44ba992",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RETOS BANDIT/LevelX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38ac8b7c2ae7b0c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d970db63ed5e585a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RETOS BANDIT/LevelX.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "71ec0046b7285a4a",
+  "lastOpenFiles": [
+    "RETOS BANDIT/Plantilla.md",
+    "RETOS BANDIT/Plantilla copy.md",
+    "Sin título.md",
+    "RETOS BANDIT/plantisss.md",
+    "RETOS BANDIT/plantilla 1.md",
+    "README.md",
+    "RETOS BANDIT"
+  ]
+}
