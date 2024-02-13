@@ -106,6 +106,8 @@ bandit0@bandit:~$~~~
 # Notas Adicionales
 
 **ssh**: Protocolo de conexión segura a internet
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
 
 # Referencias
 
