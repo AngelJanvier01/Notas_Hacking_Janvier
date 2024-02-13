@@ -8,6 +8,8 @@ The username is **bandit0** and the password is **bandit0**
 
 # Solución
 
+"""
+
 # Notas Adicionales
 
 **ssh**: Protocolo de conexión segura a internet
