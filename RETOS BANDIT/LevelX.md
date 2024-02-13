@@ -7,4 +7,4 @@ The username is **bandit0** and the password is **bandit0**
 # Notas Adicionales
 **ssh**: Protocolo de conexión segura a internet
 # Referencias
-https://overthewire.org/wargames/bandit/bandit0.html
+https://overthewire.org/wargames/bandit/bandit0.html           
