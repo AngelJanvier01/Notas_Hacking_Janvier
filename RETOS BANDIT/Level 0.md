@@ -8,8 +8,6 @@ The username is **bandit0** and the password is **bandit0**
 
 # Solución
 
-![1707848343227](image/Level0/1707848343227.png)
-
 # Notas Adicionales
 
 **ssh**: Protocolo de conexión segura a internet
