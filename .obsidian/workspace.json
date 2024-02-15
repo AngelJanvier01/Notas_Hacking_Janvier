@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RETOS BANDIT/Level 3 → Level 4.md",
+                "file": "RETOS BANDIT/Level 9 → Level 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RETOS BANDIT/Level 3 → Level 4.md",
+                "file": "RETOS BANDIT/Level 9 → Level 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RETOS BANDIT/Level 3 → Level 4.md",
+                "file": "RETOS BANDIT/Level 9 → Level 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RETOS BANDIT/Level 3 → Level 4.md"
+                "file": "RETOS BANDIT/Level 9 → Level 10.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
-    "RETOS BANDIT/Level 2 → Level 3.md",
+    "RETOS BANDIT/Level 8 → Level 9.md",
+    "RETOS BANDIT/Level 9 → Level 10.md",
+    "RETOS BANDIT/Level 7 → Level 8.md",
+    "RETOS BANDIT/Level 6 → Level 7.md",
+    "RETOS BANDIT/Level 5 → Level 6.md",
+    "RETOS BANDIT/Level 4 → Level 5.md",
     "RETOS BANDIT/Level 3 → Level 4.md",
+    "RETOS BANDIT/Level 2 → Level 3.md",
     "RETOS BANDIT/Level 1 → Level 2.md",
     "RETOS BANDIT/Level 0 → Level 1.md",
     "RETOS BANDIT/Level X Plantilla.md",
