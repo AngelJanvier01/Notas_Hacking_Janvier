@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RETOS BANDIT/Level 10 → Level 11.md",
+                "file": "picoCTF/Level X Plantilla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RETOS BANDIT/Level 10 → Level 11.md",
+                "file": "picoCTF/Level X Plantilla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RETOS BANDIT/Level 10 → Level 11.md",
+                "file": "picoCTF/Level X Plantilla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RETOS BANDIT/Level 10 → Level 11.md"
+                "file": "picoCTF/Level X Plantilla.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
+    "RETOS BANDIT/Level X Plantilla.md",
+    "picoCTF/Level X Plantilla.md",
+    "RETOS BANDIT/Level 10 → Level 11.md",
+    "picoCTF",
     "RETOS BANDIT/Level 09 → Level 10.md",
     "RETOS BANDIT/Level 08 → Level 09.md",
     "RETOS BANDIT/Level 07 → Level 08.md",
@@ -171,9 +175,6 @@
     "RETOS BANDIT/Level 23 → Level 24.md",
     "RETOS BANDIT/Level 22 → Level 23.md",
     "RETOS BANDIT/Level 21 → Level 22.md",
-    "RETOS BANDIT/Level 20 → Level 21.md",
-    "RETOS BANDIT/Level 15 → Level 16.md",
-    "RETOS BANDIT/Level 14 → Level 15.md",
     "RETOS BANDIT"
   ]
 }
