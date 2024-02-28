@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RETOS BANDIT/Level 21 → Level 22.md",
+                "file": "RETOS BANDIT/Level 32 → Level 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RETOS BANDIT/Level 21 → Level 22.md",
+                "file": "RETOS BANDIT/Level 32 → Level 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RETOS BANDIT/Level 21 → Level 22.md",
+                "file": "RETOS BANDIT/Level 32 → Level 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RETOS BANDIT/Level 21 → Level 22.md"
+                "file": "RETOS BANDIT/Level 32 → Level 33.md"
               }
             }
           }
@@ -138,9 +138,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
@@ -148,6 +148,19 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
+    "RETOS BANDIT/Level 31 → Level 32.md",
+    "RETOS BANDIT/Level 30 → Level 31.md",
+    "RETOS BANDIT/Level 29 → Level 30.md",
+    "RETOS BANDIT/Level 28 → Level 29.md",
+    "RETOS BANDIT/Level 27 → Level 28.md",
+    "RETOS BANDIT/Level 26 → Level 27.md",
+    "RETOS BANDIT/Level 25 → Level 26.md",
+    "RETOS BANDIT/Level 24 → Level 25.md",
+    "RETOS BANDIT/Level 23 → Level 24.md",
+    "RETOS BANDIT/Level 22 → Level 23.md",
+    "RETOS BANDIT/Level 21 → Level 22.md",
+    "RETOS BANDIT/Level 20 → Level 21.md",
+    "RETOS BANDIT/Level 32 → Level 33.md",
     "RETOS BANDIT/Level 15 → Level 16.md",
     "RETOS BANDIT/Level 14 → Level 15.md",
     "RETOS BANDIT/Level 13 → Level 14.md",
@@ -161,17 +174,6 @@
     "RETOS BANDIT/Level 7 → Level 8.md",
     "RETOS BANDIT/Level 6 → Level 7.md",
     "RETOS BANDIT/Level 5 → Level 6.md",
-    "RETOS BANDIT/Level 4 → Level 5.md",
-    "RETOS BANDIT/Level 3 → Level 4.md",
-    "RETOS BANDIT/Level 2 → Level 3.md",
-    "RETOS BANDIT/Level 1 → Level 2.md",
-    "RETOS BANDIT/Level 0.md",
-    "RETOS BANDIT/Plantilla.md",
-    "RETOS BANDIT/Plantilla copy.md",
-    "Sin título.md",
-    "RETOS BANDIT/plantisss.md",
-    "RETOS BANDIT/plantilla 1.md",
-    "README.md",
     "RETOS BANDIT"
   ]
 }
