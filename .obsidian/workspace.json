@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Level X Plantilla.md",
+                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Level X Plantilla.md",
+                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Level X Plantilla.md",
+                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Level X Plantilla.md"
+                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
-    "RETOS BANDIT/Level X Plantilla.md",
+    "picoCTF/Retos Web - Parte 1/Insp3ct0r.md",
+    "picoCTF/Retos Web - Parte 1/image/Insp3ct0r/1709233752772.png",
+    "picoCTF/Retos Web - Parte 1/Plantilla picoCFT.md",
     "picoCTF/Level X Plantilla.md",
+    "RETOS BANDIT/Level X Plantilla.md",
     "RETOS BANDIT/Level 10 → Level 11.md",
     "picoCTF",
     "RETOS BANDIT/Level 09 → Level 10.md",
@@ -173,8 +176,6 @@
     "RETOS BANDIT/Level 25 → Level 26.md",
     "RETOS BANDIT/Level 24 → Level 25.md",
     "RETOS BANDIT/Level 23 → Level 24.md",
-    "RETOS BANDIT/Level 22 → Level 23.md",
-    "RETOS BANDIT/Level 21 → Level 22.md",
     "RETOS BANDIT"
   ]
 }
