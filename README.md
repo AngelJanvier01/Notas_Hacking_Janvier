@@ -10,12 +10,13 @@ https://overthewire.org/wargames/bandit/
 https://overthewire.org/wargames/bandit/
 https://overthewire.org/wargames/bandit/
 https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
-https://overthewire.org/wargames/bandit/
+
+https://play.picoctf.org/assignments
+https://play.picoctf.org/assignments
+https://play.picoctf.org/assignments
+https://play.picoctf.org/assignments
+https://play.picoctf.org/assignments
+https://play.picoctf.org/assignments
 
 ![1707968148814](image/README/1707968148814.png)
 
