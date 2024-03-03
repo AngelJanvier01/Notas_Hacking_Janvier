@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
+                "file": "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
+                "file": "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
+                "file": "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/dont-use-client-side.md"
+                "file": "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md"
               }
             }
           }
@@ -148,34 +148,38 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
-    "picoCTF/Retos Web - Parte 1/Insp3ct0r.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/23 Based.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/22 runme.py.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/21 PW Crack 3.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/20 PW Crack 2.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/19 PW Crack 1.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/18 Glitch Cat.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/17 fixme2.py.md",
+    "picoCTF/Primer Examen Parcial/Parte 03/16 what's a net cat 1 1.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/16 what's a net cat.md",
+    "picoCTF/Primer Examen Parcial/Plantilla picoCFT.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/15 strings it.md",
+    "README.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/14 fixme1.py.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/13 First Grep.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/12 convertme.py.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/11 Codebook.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/10 Bases.md",
+    "picoCTF/Primer Examen Parcial/Parte 02/09 2Warm.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/08 Warmed Up.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/07 Lets Warm Up.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/06 Magikarp Ground Mission.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/05 Tab, Tab, Attack.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/04 Static ain't always noise.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/03 Nice netcat....md",
+    "picoCTF/Primer Examen Parcial/Parte 01/02 Wave a flag.md",
+    "picoCTF/Primer Examen Parcial/Parte 03",
+    "picoCTF/Primer Examen Parcial/Parte 02",
+    "picoCTF/Primer Examen Parcial/Parte 01",
+    "picoCTF/Primer Examen Parcial",
     "picoCTF/Retos Web - Parte 1/image/Insp3ct0r/1709233752772.png",
-    "picoCTF/Retos Web - Parte 1/Plantilla picoCFT.md",
-    "picoCTF/Level X Plantilla.md",
-    "RETOS BANDIT/Level X Plantilla.md",
-    "RETOS BANDIT/Level 10 → Level 11.md",
     "picoCTF",
-    "RETOS BANDIT/Level 09 → Level 10.md",
-    "RETOS BANDIT/Level 08 → Level 09.md",
-    "RETOS BANDIT/Level 07 → Level 08.md",
-    "RETOS BANDIT/Level 06 → Level 07.md",
-    "RETOS BANDIT/Level 05 → Level 06.md",
-    "RETOS BANDIT/Level 04 → Level 05.md",
-    "RETOS BANDIT/Level 03 → Level 04.md",
-    "RETOS BANDIT/Level 02 → Level 03.md",
-    "RETOS BANDIT/Level 01 → Level 02.md",
-    "RETOS BANDIT/Level 0 → Level 01.md",
-    "RETOS BANDIT/Level 0 → Level 0.md",
-    "RETOS BANDIT/Level 32 → Level 33.md",
-    "RETOS BANDIT/Level 31 → Level 32.md",
-    "RETOS BANDIT/Level 30 → Level 31.md",
-    "RETOS BANDIT/Level 29 → Level 30.md",
-    "RETOS BANDIT/Level 28 → Level 29.md",
-    "RETOS BANDIT/Level 27 → Level 28.md",
-    "RETOS BANDIT/Level 26 → Level 27.md",
-    "RETOS BANDIT/Level 25 → Level 26.md",
-    "RETOS BANDIT/Level 24 → Level 25.md",
-    "RETOS BANDIT/Level 23 → Level 24.md",
     "RETOS BANDIT"
   ]
 }
