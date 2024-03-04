@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md"
               }
             }
           }
@@ -148,6 +148,19 @@
   },
   "active": "71ec0046b7285a4a",
   "lastOpenFiles": [
+    "picoCTF/Retos Web - Parte 1/05 Client-side-again.md",
+    "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
+    "picoCTF/Retos Web - Parte 1/04 where are the robots.md",
+    "picoCTF/Retos Web - Parte 1/03 logon.md",
+    "picoCTF/Retos Web - Parte 1/02 dont-use-client-side.md",
+    "picoCTF/Retos Web - Parte 1/01 Insp3ct0r.md",
+    "picoCTF/Retos Web - Parte 1/Plantilla picoCFT.md",
+    "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
+    "picoCTF/Retos Web - Parte 1/Insp3ct0r.md",
+    "picoCTF/Primer Examen Parcial/Parte 01/08 Warmed Up.md",
+    "image/README/1707968148814.png",
+    "image/README/1708229773031.png",
+    "README.md",
     "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
     "picoCTF/Primer Examen Parcial/Parte 03/23 Based.md",
     "picoCTF/Primer Examen Parcial/Parte 03/22 runme.py.md",
@@ -160,20 +173,9 @@
     "picoCTF/Primer Examen Parcial/Parte 02/16 what's a net cat.md",
     "picoCTF/Primer Examen Parcial/Plantilla picoCFT.md",
     "picoCTF/Primer Examen Parcial/Parte 02/15 strings it.md",
-    "README.md",
     "picoCTF/Primer Examen Parcial/Parte 02/14 fixme1.py.md",
     "picoCTF/Primer Examen Parcial/Parte 02/13 First Grep.md",
     "picoCTF/Primer Examen Parcial/Parte 02/12 convertme.py.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/11 Codebook.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/10 Bases.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/09 2Warm.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/08 Warmed Up.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/07 Lets Warm Up.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/06 Magikarp Ground Mission.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/05 Tab, Tab, Attack.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/04 Static ain't always noise.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/03 Nice netcat....md",
-    "picoCTF/Primer Examen Parcial/Parte 01/02 Wave a flag.md",
     "picoCTF/Primer Examen Parcial/Parte 03",
     "picoCTF/Primer Examen Parcial/Parte 02",
     "picoCTF/Primer Examen Parcial/Parte 01",
