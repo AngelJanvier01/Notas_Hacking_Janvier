@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4c215104ee8d72",
+        "id": "ded41e41399767c2",
         "type": "tabs",
         "children": [
           {
-            "id": "71ec0046b7285a4a",
+            "id": "42d7941615e996c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
+                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
+                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
+                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Web - Parte 1/06 picobrowser.md"
+                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md"
               }
             }
           }
@@ -146,10 +146,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "71ec0046b7285a4a",
+  "active": "42d7941615e996c7",
   "lastOpenFiles": [
-    "picoCTF/Retos Web - Parte 1/05 Client-side-again.md",
+    "picoCTF/Retos Forensic - Parte 1/04 So Meta.md",
+    "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
+    "picoCTF/Retos Forensic - Parte 1/03 shark on wire 1.md",
+    "picoCTF/Retos Forensic - Parte 1/02 extensions.md",
+    "picoCTF/Retos Forensic - Parte 1/01 Glory of the Garden.md",
+    "picoCTF/Retos Web - Parte 3/03 Scavenger Hunt.md",
+    "picoCTF/Retos Forensic - Parte 1",
+    "picoCTF/Retos Web - Parte 3/02 Cookies.md",
+    "picoCTF/Retos Web - Parte 3/01 GET aHEAD.md",
+    "Sin título.canvas",
+    "Sin título 1.canvas",
     "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
+    "picoCTF/Retos Web - Parte 1/05 Client-side-again.md",
     "picoCTF/Retos Web - Parte 1/04 where are the robots.md",
     "picoCTF/Retos Web - Parte 1/03 logon.md",
     "picoCTF/Retos Web - Parte 1/02 dont-use-client-side.md",
@@ -168,14 +179,6 @@
     "picoCTF/Primer Examen Parcial/Parte 03/20 PW Crack 2.md",
     "picoCTF/Primer Examen Parcial/Parte 03/19 PW Crack 1.md",
     "picoCTF/Primer Examen Parcial/Parte 03/18 Glitch Cat.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/17 fixme2.py.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/16 what's a net cat 1 1.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/16 what's a net cat.md",
-    "picoCTF/Primer Examen Parcial/Plantilla picoCFT.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/15 strings it.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/14 fixme1.py.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/13 First Grep.md",
-    "picoCTF/Primer Examen Parcial/Parte 02/12 convertme.py.md",
     "picoCTF/Primer Examen Parcial/Parte 03",
     "picoCTF/Primer Examen Parcial/Parte 02",
     "picoCTF/Primer Examen Parcial/Parte 01",
