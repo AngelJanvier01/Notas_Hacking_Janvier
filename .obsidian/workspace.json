@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
+                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "182b199bc7425f5e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
+                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
+                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md"
+                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "42d7941615e996c7",
   "lastOpenFiles": [
-    "picoCTF/Retos Forensic - Parte 1/04 So Meta.md",
+    "picoCTF/Retos Forensic - Parte 2/04 WhitePages.md",
+    "picoCTF/Retos Forensic - Parte 2/03 m00nwalk.md",
+    "picoCTF/Retos Forensic - Parte 2/02 like1000.md",
+    "picoCTF/Retos Forensic - Parte 2/01 c0rrupt.md",
     "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
+    "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
+    "picoCTF/Retos Forensic - Parte 2",
+    "picoCTF/Retos Forensic - Parte 1 - copia/05 What Lies Within.md",
+    "picoCTF/Retos Forensic - Parte 1 - copia/04 So Meta.md",
+    "picoCTF/Retos Forensic - Parte 1 - copia/03 shark on wire 1.md",
+    "picoCTF/Retos Forensic - Parte 1 - copia/02 extensions.md",
+    "picoCTF/Retos Forensic - Parte 1 - copia/01 Glory of the Garden.md",
+    "picoCTF/Retos Forensic - Parte 1 - copia",
+    "picoCTF/Retos Forensic - Parte 1/04 So Meta.md",
     "picoCTF/Retos Forensic - Parte 1/03 shark on wire 1.md",
     "picoCTF/Retos Forensic - Parte 1/02 extensions.md",
     "picoCTF/Retos Forensic - Parte 1/01 Glory of the Garden.md",
@@ -167,18 +179,8 @@
     "picoCTF/Retos Web - Parte 1/01 Insp3ct0r.md",
     "picoCTF/Retos Web - Parte 1/Plantilla picoCFT.md",
     "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
-    "picoCTF/Retos Web - Parte 1/Insp3ct0r.md",
-    "picoCTF/Primer Examen Parcial/Parte 01/08 Warmed Up.md",
     "image/README/1707968148814.png",
     "image/README/1708229773031.png",
-    "README.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/24 plumbing.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/23 Based.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/22 runme.py.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/21 PW Crack 3.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/20 PW Crack 2.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/19 PW Crack 1.md",
-    "picoCTF/Primer Examen Parcial/Parte 03/18 Glitch Cat.md",
     "picoCTF/Primer Examen Parcial/Parte 03",
     "picoCTF/Primer Examen Parcial/Parte 02",
     "picoCTF/Primer Examen Parcial/Parte 01",
