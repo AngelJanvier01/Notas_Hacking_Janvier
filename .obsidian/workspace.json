@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md"
+                "file": "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md"
               }
             }
           }
@@ -148,13 +148,20 @@
   },
   "active": "42d7941615e996c7",
   "lastOpenFiles": [
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/06 Redaction gone wrong.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/05 Packets Primer.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/03 Enhance!.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/02 Wireshark doo dooo do doo....md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/01 information.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/04 Lookey here.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/03 Local Authority.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/05 Forbidden Paths.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/06 Power Cookie.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/07 Roboto Sans.md",
     "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/08 Secrets.md",
     "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/07 Roboto Sans.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/06 Power Cookie.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/05 Forbidden Paths.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/03 Local Authority.md",
     "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/02 Inspect HTML.md",
     "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/01 Includes.md",
     "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
@@ -175,14 +182,7 @@
     "picoCTF/Retos Forensic - Parte 1 - copia/05 What Lies Within.md",
     "picoCTF/Retos Forensic - Parte 1 - copia/04 So Meta.md",
     "picoCTF/Retos Forensic - Parte 1 - copia/03 shark on wire 1.md",
-    "picoCTF/Retos Forensic - Parte 1 - copia/02 extensions.md",
-    "picoCTF/Retos Forensic - Parte 1 - copia/01 Glory of the Garden.md",
     "picoCTF/Retos Forensic - Parte 1 - copia",
-    "picoCTF/Retos Forensic - Parte 1/04 So Meta.md",
-    "picoCTF/Retos Forensic - Parte 1/03 shark on wire 1.md",
-    "picoCTF/Retos Forensic - Parte 1/02 extensions.md",
-    "picoCTF/Retos Forensic - Parte 1/01 Glory of the Garden.md",
-    "picoCTF/Retos Web - Parte 3/03 Scavenger Hunt.md",
     "picoCTF/Retos Forensic - Parte 1",
     "Sin título.canvas",
     "Sin título 1.canvas",
