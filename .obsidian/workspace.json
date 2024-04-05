@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md"
+                "file": "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md"
               }
             }
           }
@@ -148,12 +148,29 @@
   },
   "active": "42d7941615e996c7",
   "lastOpenFiles": [
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/08 Secrets.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/09 SQL Direct.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/07 Roboto Sans.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/06 Power Cookie.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/05 Forbidden Paths.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/03 Local Authority.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/02 Inspect HTML.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/01 Includes.md",
+    "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
+    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)",
+    "picoCTF/Segundo Examen Parcial/Parte 1/01 Obedient Cat.md",
+    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)",
+    "picoCTF/Segundo Examen Parcial/Parte 2",
+    "picoCTF/Segundo Examen Parcial/Nueva carpeta",
+    "picoCTF/Segundo Examen Parcial/Parte 1",
+    "picoCTF/Segundo Examen Parcial",
+    "picoCTF/Nueva carpeta",
     "picoCTF/Retos Forensic - Parte 2/04 WhitePages.md",
     "picoCTF/Retos Forensic - Parte 2/03 m00nwalk.md",
     "picoCTF/Retos Forensic - Parte 2/02 like1000.md",
     "picoCTF/Retos Forensic - Parte 2/01 c0rrupt.md",
     "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
-    "picoCTF/Retos Forensic - Parte 2/05 shark on wire 2.md",
     "picoCTF/Retos Forensic - Parte 2",
     "picoCTF/Retos Forensic - Parte 1 - copia/05 What Lies Within.md",
     "picoCTF/Retos Forensic - Parte 1 - copia/04 So Meta.md",
@@ -167,26 +184,10 @@
     "picoCTF/Retos Forensic - Parte 1/01 Glory of the Garden.md",
     "picoCTF/Retos Web - Parte 3/03 Scavenger Hunt.md",
     "picoCTF/Retos Forensic - Parte 1",
-    "picoCTF/Retos Web - Parte 3/02 Cookies.md",
-    "picoCTF/Retos Web - Parte 3/01 GET aHEAD.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
-    "picoCTF/Retos Web - Parte 1/06 picobrowser.md",
-    "picoCTF/Retos Web - Parte 1/05 Client-side-again.md",
-    "picoCTF/Retos Web - Parte 1/04 where are the robots.md",
-    "picoCTF/Retos Web - Parte 1/03 logon.md",
-    "picoCTF/Retos Web - Parte 1/02 dont-use-client-side.md",
-    "picoCTF/Retos Web - Parte 1/01 Insp3ct0r.md",
-    "picoCTF/Retos Web - Parte 1/Plantilla picoCFT.md",
-    "picoCTF/Retos Web - Parte 1/dont-use-client-side.md",
     "image/README/1707968148814.png",
     "image/README/1708229773031.png",
-    "picoCTF/Primer Examen Parcial/Parte 03",
-    "picoCTF/Primer Examen Parcial/Parte 02",
-    "picoCTF/Primer Examen Parcial/Parte 01",
-    "picoCTF/Primer Examen Parcial",
-    "picoCTF/Retos Web - Parte 1/image/Insp3ct0r/1709233752772.png",
-    "picoCTF",
-    "RETOS BANDIT"
+    "picoCTF/Retos Web - Parte 1/image/Insp3ct0r/1709233752772.png"
   ]
 }
