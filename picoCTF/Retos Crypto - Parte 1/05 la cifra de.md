@@ -1,10 +1,14 @@
 Puntos: 200pts
+
 # Objetivo del Nivel
 
 I found this cipher in an old book. Can you figure out what it says? Connect with `nc jupiter.challenges.picoctf.org 58295`.
+
 # Pistas del Nivel
+
 - There are tools that make this easy.
 - Perhaps looking at history will help
+
 # Solución/Resultado/Flag
 
 ```bash
@@ -50,11 +54,15 @@ picoCTF{b311a50_0r_v1gn3r3_c1ph3ra966878a}
 ```
 
 picoCTF{b311a50_0r_v1gn3r3_c1ph3ra966878a}
+
 # Notas Adicionales
 
 Tags:
 
 AUTHOR:
+
 # Referencias
 
 https://play.picoctf.org/practice/challenge/
+
+https://www.guballa.de/vigenere-solver
