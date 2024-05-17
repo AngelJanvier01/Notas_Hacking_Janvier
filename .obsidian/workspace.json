@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md",
+                "file": "picoCTF/Retos Reversing - Parte 3/01 GDB Test Drive.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md",
+                "file": "picoCTF/Retos Reversing - Parte 3/01 GDB Test Drive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md",
+                "file": "picoCTF/Retos Reversing - Parte 3/01 GDB Test Drive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md"
+                "file": "picoCTF/Retos Reversing - Parte 3/01 GDB Test Drive.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "42d7941615e996c7",
   "lastOpenFiles": [
+    "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md",
     "picoCTF/Retos Crypto - Parte 2/03 b00tl3gRSA2.md",
     "picoCTF/Retos Crypto - Parte 2/02 miniRSA.md",
     "picoCTF/Retos Crypto - Parte 2/01 rsa-pop-quiz.md",
@@ -180,7 +181,6 @@
     "picoCTF/Retos Forensic - Parte 2/03 m00nwalk.md",
     "picoCTF/Retos Forensic - Parte 2/02 like1000.md",
     "picoCTF/Retos Forensic - Parte 2/01 c0rrupt.md",
-    "picoCTF/Retos Forensic - Parte 1/05 What Lies Within.md",
     "picoCTF/Retos Forensic - Parte 2",
     "picoCTF/Retos Forensic - Parte 1 - copia",
     "picoCTF/Retos Forensic - Parte 1",

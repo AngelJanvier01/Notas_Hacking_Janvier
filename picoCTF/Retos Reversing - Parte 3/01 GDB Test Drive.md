@@ -39,7 +39,9 @@ asm1:
 	<+57>:	add    eax,0xa
 	<+60>:	pop    ebp
 	<+61>:	ret   
-``` 0X2D6
+``` 
+0X2D6
+
 
 picoCTF{w4rm1ng_Up_w1tH_jAv4_be8d9806f18}
 # Notas Adicionales
