@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md",
+                "file": "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/10 SRA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md",
+                "file": "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/10 SRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md",
+                "file": "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/10 SRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md"
+                "file": "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/10 SRA.md"
               }
             }
           }
@@ -148,6 +148,17 @@
   },
   "active": "42d7941615e996c7",
   "lastOpenFiles": [
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/09 Mr-Worldwide.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/10 SRA.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/08 Flags.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/07 C3.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/06 Play Nice.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/05 Vigenere.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/04 substitution1.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/03 substitution0.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/02 morse-code.md",
+    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/01 No Padding, No Problem.md",
+    "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/03 keygenme-py.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/10 GDB baby step 2.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/09 GDB baby step 1.md",
@@ -155,25 +166,14 @@
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/07 Bit-O-Asm-3.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/06 Bit-O-Asm-2.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/05 Bit-O-Asm-1.md",
-    "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/04 ASCII FTW.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/02 crackme-py.md",
     "picoCTF/Tercer Examen Parcial/Parte 2 - (Retos Reversing)/01 Transformation.md",
-    "picoCTF/Tercer Examen Parcial/Parte 1 - (Retos Crypto)/01 No Padding, No Problem.md",
     "picoCTF/Retos Reversing - Parte 3/01 GDB Test Drive.md",
     "picoCTF/Retos Crypto - Parte 3/05 ReadMyCert.md",
     "picoCTF/Retos Crypto - Parte 2/03 b00tl3gRSA2.md",
     "picoCTF/Retos Crypto - Parte 2/02 miniRSA.md",
     "picoCTF/Retos Crypto - Parte 2/01 rsa-pop-quiz.md",
     "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/07 St3g0.md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/06 Redaction gone wrong.md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/05 Packets Primer.md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/03 Enhance!.md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/02 Wireshark doo dooo do doo....md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/01 information.md",
-    "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)/04 Lookey here.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/03 Local Authority.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/04 Search source.md",
-    "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)/05 Forbidden Paths.md",
     "picoCTF/Segundo Examen Parcial/Parte 2 (Retos Forensic)",
     "picoCTF/Segundo Examen Parcial/Parte 1 (Retos Web)",
     "picoCTF/Segundo Examen Parcial/Parte 2",
